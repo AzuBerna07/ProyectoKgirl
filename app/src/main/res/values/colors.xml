@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+
+    <color name="lila">#876BAD</color>
+    <color name="violeta">#AE97C7</color>
+    <color name="morado">#D1C0DF</color>
+    <color name="mor">#654EA3</color>
+    <color name="ro">#EAAFCB</color>
+
+    <color name="rosa">#E8A1C7</color>
+    <color name="pinki">#F1CAE1</color>
+    <color name="ross">#F6DCEC</color>
+
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
